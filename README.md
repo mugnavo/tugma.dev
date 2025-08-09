@@ -1,9 +1,13 @@
 # varo.dev
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dc7164b7-e940-4e24-8763-74665622e1ee/deploy-status)](https://app.netlify.com/sites/varo-dev/deploys)
-
-> [!NOTE]  
-> This project is still in its early stages. If you're interested in contributing, check out the [active issues](https://github.com/mugnavo/varo.dev/issues).
+> [!IMPORTANT]  
+> We're grateful to the Cebu tech community for recognizing this project's potential when it won the Cebu Hacktoberfest 2024 Hackathon. 
+>
+> As of August 2025, we've decided to discontinue varo.dev and will not be continuing development.
+>
+> While this project is no longer active, we encourage you to check out [oss.now](https://oss.now) (not affiliated with us), which shares a similar vision and already has an active community.
+>
+> Thanks for following along.
 
 The AI-powered matchmaking platform for developers, open-source projects, and indie hackers.
 
